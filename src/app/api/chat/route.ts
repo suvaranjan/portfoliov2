@@ -9,9 +9,7 @@ export async function POST(request: Request) {
     const reply = await generateGeminiReply(messages);
     return Response.json({ reply });
   } catch (error) {
-    return Response.json(
-      { error: "Failed to generate reply" },
-      { status: 500 }
-    );
+    console.log(error);
+    return Response.json({ error: error }, { status: 500 });
   }
 }
