@@ -1,0 +1,76 @@
+{
+  "about": {
+    "name": "Suvaranjan Pradhan",
+    "title": "Full stack Web Developer",
+    "avatar": "/images/profile.jpg",
+    "description": [
+      "I build modern full-stack web apps. I specialize in React and Next.js applications with a focus on simplicity and interactive user interfaces.I pay close attention to key details to ensure quality and seamless user experiences.",
+      "Passionate about creating fast, accessible, and user-centric digital experiences.I specialize in the Reactjs, Next.js stack and love crafting UI/UX with clean, scalable code.",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam adipisci fuga laudantium non repellendus."
+    ]
+  },
+  "projects": [
+    {
+      "id": "1",
+      "title": "Soccer League Web Application",
+      "description": "Football match management website",
+      "imgUrl": "/images/soccer.png",
+      "github": "https://github.com/suvaranjan/soccer"
+    },
+    {
+      "id": "2",
+      "title": "Chat Web Application",
+      "description": "Real Time Chat App",
+      "imgUrl": "/images/chat-app.png",
+      "github": "https://github.com/suvaranjan/quick-chat"
+    },
+    {
+      "id": "3",
+      "title": "Ecommerce Web Application",
+      "description": "Shopping Website using Next.js",
+      "imgUrl": "/images/ecommerce.png",
+      "github": "https://github.com/suvaranjan/ecommerce"
+    },
+    {
+      "id": "4",
+      "title": "Quiz App",
+      "description": "React Quiz Web Application",
+      "imgUrl": "/images/quiz.png",
+      "github": "https://github.com/suvaranjan/Test-App"
+    }
+  ],
+  "skills": [
+    {
+      "name": "React",
+      "icon": "https://skillicons.dev/icons?i=react"
+    },
+    {
+      "name": "Next",
+      "icon": "https://skillicons.dev/icons?i=nextjs"
+    },
+    {
+      "name": "Express",
+      "icon": "https://skillicons.dev/icons?i=express"
+    },
+    {
+      "name": "TypeScript",
+      "icon": "https://skillicons.dev/icons?i=ts"
+    },
+    {
+      "name": "Prisma",
+      "icon": "https://skillicons.dev/icons?i=prisma"
+    },
+    {
+      "name": "MongoDB",
+      "icon": "https://skillicons.dev/icons?i=mongodb"
+    },
+    {
+      "name": "PostgreSQL",
+      "icon": "https://skillicons.dev/icons?i=postgresql"
+    },
+    {
+      "name": "VSCode",
+      "icon": "https://skillicons.dev/icons?i=vscode"
+    }
+  ]
+}
